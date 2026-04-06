@@ -1,0 +1,12 @@
+runtime! debian.vim
+set nocompatible
+set background=dark
+set laststatus=2
+set showmode
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set mouse=""
+set nobackup
+set backspace=indent,eol,start
