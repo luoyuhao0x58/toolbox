@@ -1,0 +1,8 @@
+line-length = 79
+
+[lint]
+select = [
+    "E",   # pycodestyle 错误
+    "F",   # pyflakes（包含 F401 未使用 import）
+    "I",   # isort（import 排序）
+]
